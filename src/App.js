@@ -25,7 +25,7 @@ class App extends Component {
       <div>
         <NavBar/>
         
-          {this.getPage(Pages.MOVIE)}
+          {this.getPage(Pages.MY_LIST)}
       </div>
     );
   }

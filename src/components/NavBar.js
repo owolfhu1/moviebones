@@ -13,9 +13,6 @@ class NavBar extends React.Component {
                 </Navbar.Header>
                 <Navbar.Collapse>
                     <Navbar.Form pullLeft>
-                        <FormGroup>
-                            <FormControl type="text" placeholder="Search" />
-                        </FormGroup>{' '}
                         <Button>Search</Button>{' '}
                         <Button>My List</Button>
                     </Navbar.Form>
